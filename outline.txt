@@ -1,0 +1,1 @@
+An outline is the exterior border around each character of your text or WordArt. When you change the outline of text, you can also adjust the color, weight, and style of the line.
