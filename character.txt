@@ -1,5 +1,0 @@
-=========
-Character
-=========
-
-A collection of cool symbols that provides access to many special fancy text symbols, letters, characters
